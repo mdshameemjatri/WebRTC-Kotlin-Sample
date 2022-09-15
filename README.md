@@ -31,7 +31,7 @@ An android application which uses WebRTC and Firestore as signaling server to su
 https://firebase.google.com/docs/android/setup
 
 Once the setup is done you can run the project in Android Studio.
-
+https://proandroiddev.com/webrtc-sample-in-kotlin-e584681ed7fc
 ---
 
 <div style="width:100%">
